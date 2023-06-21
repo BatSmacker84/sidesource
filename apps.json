@@ -1,6 +1,7 @@
 {
   "name": "My Source",
   "identifier": "com.batsmacker.source",
+  "sourceURL": "https://raw.githubusercontent.com/BatSmacker84/sidesource/master/apps.json",
   "apps": [
     {
       "name": "My App",
