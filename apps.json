@@ -1,31 +1,30 @@
 {
-  "name": "My Source",
-  "identifier": "com.batsmacker.sidesource",
-  "sourceURL": "https://raw.githubusercontent.com/BatSmacker84/sidesource/master/apps.json",
   "apps": [
     {
-      "name": "uYouPlusExtra",
+      "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "MiRO92",
-      "subtitle": "YouTube with extra features",
-      "versions": [
-        {
-          "version": "18.21.3-3.0",
-          "date": "2023-06-21",
-          "localizedDescription": "Initial Source Release",
-          "downloadURL": "https://github.com/arichorn/uYouPlusExtra/releases/download/v18.21.3-3.0/uYouPlusExtra_18.21.3_3.0.ipa",
-          "size": 121703695,
-          "minOSVersion": "14.0"
-        }
-      ],
+      "developerName": "MiRO92 & Qn_ & asdf",
       "downloadURL": "https://github.com/arichorn/uYouPlusExtra/releases/download/v18.21.3-3.0/uYouPlusExtra_18.21.3_3.0.ipa",
-      "localizedDescription": "Features include:\n\n• Cool graphics\n• Top notch performance\n• Satisfying interactions",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
-      "tintColor": "E85567",
+      "localizedDescription": "uYouPlusExtra is a modified version of uYouPlus with some extra features (requires iOS 14.0 and later).\nFull infomation about uYouPlus (uYou+) is available on Github: https://github.com/qnblackcat/uYouPlus/\n\nCredits: Please keep the Credits if you re-up uYouPlus! https://github.com/qnblackcat/uYouPlus#credits\n\nAttention:\n- If you like the app, considering support the developers!\n- YTUHD is not stable atm. You might encounter stuttering, heat, battery drain..., especially when playing at 2160p (4K) quality. However, this should not happen if you use TrollStore.\n- Unless you're using TrollStore, deep-link (aka Open in the YouTube App) simply will not work.\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus",
+      "name": "uYouPlusExtra",
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG"
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2394.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
       ],
-      "beta": false
+      "size": 2184796,
+      "subtitle": "A modified version of uYouPlus with some extra features",
+      "tintColor": "e85567",
+      "version": "18.21.3",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "RELEASE F1: (June 1st 2023)\n\n    Updated YouTube from v18.20.3 to v18.21.3\n    Updated YTNoModernUI (arichorn)\n        Added “16.42.3” YouTube Version\n        Added Red Progress Bar\n        Added Old Buffer Bar\n    Updated LowContrastMode (arichorn)\n        Added UILabel Support\n        Added ASyncDisplayKit Support\n    uYou Fixes ⬇️\n        Fix stretched artwork in uYou's player view (therealFoxster)\n        Fix crash on startup after closing with uYou download in progress (therealFoxster)\n    Disabled DontEatMyContent Tweak\n        Tweak has been disabled for this releases due to issues with the v1.0.6 release - will return hopefully next release.\n"
     }
-  ]
+  ],
+  "identifier": "com.example.source",
+  "name": "BatSmacker84's Source",
+  "news": [],
+  "userInfo": {}
 }
