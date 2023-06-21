@@ -1,44 +1,29 @@
 {
   "name": "My Source",
-  "identifier": "com.batsmacker.source",
+  "identifier": "com.batsmacker.sidesource",
   "sourceURL": "https://raw.githubusercontent.com/BatSmacker84/sidesource/master/apps.json",
   "apps": [
     {
-      "name": "My App",
-      "bundleIdentifier": "com.myname.myapp",
-      "developerName": "My Name",
-      "subtitle": "The newest and greatest app around.",
+      "name": "uYouPlusExtra",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "MiRO92",
+      "subtitle": "YouTube with extra features",
       "versions": [
         {
-          "version": "1.1",
-          "date": "2020-04-21",
-          "localizedDescription": "Bug fixes.",
-          "downloadURL": "https://myapp.com/myapp-1.1.ipa",
-          "size": 87129,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "1.0",
-          "date": "2020-03-30",
-          "localizedDescription": "First AltStore release!",
-          "downloadURL": "https://myapp.com/myapp-1.0.ipa",
-          "size": 79821,
-          "minOSVersion": "12.0",
-          "maxOSVersion": "14.3"
+          "version": "18.21.3-3.0",
+          "date": "2023-06-21",
+          "localizedDescription": "Initial Source Release",
+          "downloadURL": "https://github.com/arichorn/uYouPlusExtra/releases/download/v18.21.3-3.0/uYouPlusExtra_18.21.3_3.0.ipa",
+          "size": 121703695,
+          "minOSVersion": "14.0"
         }
       ],
-      "downloadURL": "https://myapp.com/app.ipa",
+      "downloadURL": "https://github.com/arichorn/uYouPlusExtra/releases/download/v18.21.3-3.0/uYouPlusExtra_18.21.3_3.0.ipa",
       "localizedDescription": "Features include:\n\n• Cool graphics\n• Top notch performance\n• Satisfying interactions",
-      "iconURL": "https://myapp.com/assets/icon.png",
-      "tintColor": "8A28F7",
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows you to use your photo library to set your profile image."
-        }
-      ],
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
+      "tintColor": "E85567",
       "screenshotURLs": [
-        "https://myapp.com/assets/screen0.png"
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG"
       ],
       "beta": false
     }
