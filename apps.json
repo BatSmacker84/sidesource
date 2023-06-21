@@ -23,7 +23,7 @@
       "versionDescription": "RELEASE F1: (June 1st 2023)\n\n- Updated YouTube from v18.20.3 to v18.21.3\n- Updated YTNoModernUI (arichorn)\n- Added “16.42.3” YouTube Version\n- Added Red Progress Bar\n- Added Old Buffer Bar\n- Updated LowContrastMode (arichorn)\n- Added UILabel Support\n- Added ASyncDisplayKit Support\n\nuYou Fixes\n- Fix stretched artwork in uYou's player view (therealFoxster)\n- Fix crash on startup after closing with uYou download in progress (therealFoxster)\n- Disabled DontEatMyContent Tweak\n- Tweak has been disabled for this releases due to issues with the v1.0.6 release - will return hopefully next release.\n"
     }
   ],
-  "identifier": "com.example.source",
+  "identifier": "com.batsmacker.source",
   "name": "BatSmacker84's Source",
   "news": [],
   "userInfo": {}
