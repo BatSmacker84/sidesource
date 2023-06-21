@@ -1,7 +1,6 @@
 {
   "name": "My Source",
-  "identifier": "com.myname.mysource",
-  "sourceURL": "https://github.com/noah978/AltStore-Docs/raw/master/apps.json",
+  "identifier": "com.batsmacker.source",
   "apps": [
     {
       "name": "My App",
@@ -41,19 +40,6 @@
         "https://myapp.com/assets/screen0.png"
       ],
       "beta": false
-    }
-  ],
-  "news": [
-    {
-      "title": "My App Now Available!",
-      "identifier": "my-app-available-download",
-      "caption": "The app to beat all apps.",
-      "date": "2020-04-21",
-      "tintColor": "8A28F7",
-      "imageURL": "https://myapp.com/assets/news.png",
-      "url": "https://myapp.com",
-      "appID": "com.myname.myapp",
-      "notify": false
     }
   ]
 }
