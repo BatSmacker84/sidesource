@@ -86,7 +86,7 @@
       ],
       "versions": [
         {
-          "version": "3.9.1.2",
+          "version": "3.9.1",
           "date": "2023-06-21",
           "localizedDescription": "Updated Twitter version to 9.63\nWhat's new in the 3.9.1 update:\n- Add a new option to force Twitter to always use the following page.",
           "downloadURL": "https://github.com/BatSmacker84/sidesource/releases/download/latest/Twitter_9.63_BHTwitter_3.9.1.ipa",
