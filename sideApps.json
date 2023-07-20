@@ -84,12 +84,42 @@
         "https://raw.githubusercontent.com/BandarHL/BHTwitter/master/3.png",
         "https://raw.githubusercontent.com/BandarHL/BHTwitter/master/4.png"
       ],
-      "version": "3.9.1.2",
-      "versionDate": "2023-06-21",
-      "versionDescription": "Updated Twitter version to 9.63\nWhat's new in the 3.9.1 update:\n- Add a new option to force Twitter to always use the following page.",
-      "downloadURL": "https://github.com/BatSmacker84/sidesource/releases/download/latest/Twitter_9.63_BHTwitter_3.9.1.ipa",
-      "size": 96303272,
-      "minOSVersion": "15.0"
+      "versions": [
+        {
+          "version": "3.9.1.2",
+          "date": "2023-06-21",
+          "localizedDescription": "Updated Twitter version to 9.63\nWhat's new in the 3.9.1 update:\n- Add a new option to force Twitter to always use the following page.",
+          "downloadURL": "https://github.com/BatSmacker84/sidesource/releases/download/latest/Twitter_9.63_BHTwitter_3.9.1.ipa",
+          "size": "96303272",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Used for saving images and videos to your camera roll"
+        },
+        {
+          "type": "siri",
+          "usageDescription": "Used for Siri Shortcuts and Siri Suggestions"
+        },
+        {
+          "type": "background-fetch",
+          "usageDescription": "Used for updating DMs and Timeline"
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "Used for voice search and voice messages/tweets"
+        },
+        {
+          "type": "speech-recognition",
+          "usageDescription": "Used for voice search and voice messages/tweets"
+        },
+        {
+          "type": "location",
+          "usageDescription": "Used for recommending tweets and language settings"
+        }
+      ]
     }
   ],
   "identifier": "com.batsmacker.sidesource",
