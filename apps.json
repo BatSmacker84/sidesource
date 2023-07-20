@@ -4,7 +4,7 @@
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "MiRO92 & Qn_ & arichorn",
-      "downloadURL": "https://github.com/arichorn/uYouPlusExtra/releases/download/v18.27.3-3.0/uYouPlusExtra_18.27.3_3.0.ipa",
+      "downloadURL": "https://github.com/arichorn/uYouPlusExtra/releases/download/v18.08.1-3.0-F2/uYouPlusExtra_18.08.1_3.0_F2.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
       "localizedDescription": "uYouPlusExtra is a modified version of uYouPlus with some Extra features (requires iOS 14.0 and later).\nFull infomation about uYouPlusExtra is available on Github: https://github.com/arichorn/uYouPlusExtra\n\nCredits: Please keep the Credits if you re-up uYouPlusExtra! https://github.com/arichorn/uYouPlusExtra#credits\n\nAttention:\n- If you like the app, considering support the developers!\n- YTUHD is not stable atm. You might encounter stuttering, heat, battery drain..., especially when playing at 2160p (4K) quality. However, this should not happen if you use TrollStore.\n- Unless you're using TrollStore, deep-link (aka Open in the YouTube App) simply will not work.\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus/issues\n- uYouPlusExtra's issues: https://github.com/arichorn/uYouPlusExtra/issues",
       "name": "uYouPlusExtra",
@@ -15,11 +15,11 @@
         "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG",
         "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
       ],
-      "size": 117303695,
+      "size": 107303695,
       "tintColor": "e85567",
-      "version": "18.27.3",
-      "versionDate": "2023-07-12",
-      "versionDescription": "RELEASE F1: (July 11th 2023)\n\nUpdated YouTube from v18.25.1 to v18.27.3\n- Re-added “Hide uYou Tab” Option\n  - Option has been brought back because of #45 and it has been improved and should work!\n- Added Tweaks\n  - YTVideoOverlay\n  - YouQuality\n  - YTNoCommunityPosts\n- Updated Tweaks\n- Updated “Hide Search Ads”\n  - can now block even more Ads\n- Updated LowContrastMode to v1.3.1\n  - Updated labels in _ASDisplayView\n- Updated OLED + OLD Dark Mode\n- Updated Submodules\n- YouMute\n  - YouMute now requires YTVideoOverlay Tweak"
+      "version": "18.08.1",
+      "versionDate": "2023-07-14",
+      "versionDescription": "RELEASE F1: (July 13th 2023)\n\nDowngraded YouTube from v18.27.3 to v18.08.1\n- Downgrade to prevent the issues #49 and #57 from happening (App crash on video playback).\nNew Options\n- Hide Subscriptions Notification Badge #52\n- Disable double tap to skip (Legacy)\n  - Added this option in case the original double tap to skip option doesn’t work in v18.08.1"
     },
     {
       "beta": false,
