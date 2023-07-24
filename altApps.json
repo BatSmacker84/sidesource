@@ -16,14 +16,14 @@
       ],
       "size": 107303695,
       "tintColor": "e85567",
-      "version": "18.8.1",
+      "version": "18.08.1",
       "versionDate": "2023-07-14",
       "versionDescription": "RELEASE F1: (July 13th 2023)\n\nDowngraded YouTube from v18.27.3 to v18.08.1\n- Downgrade to prevent the issues #49 and #57 from happening (App crash on video playback).\nNew Options\n- Hide Subscriptions Notification Badge #52\n- Disable double tap to skip (Legacy)\n  - Added this option in case the original double tap to skip option doesn’t work in v18.08.1"
     },
     {
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "BandarHL",
-      "downloadURL": "https://github.com/BatSmacker84/sidesource/releases/download/latest/Twitter_9.63_BHTwitter_3.9.1.ipa",
+      "downloadURL": "https://github.com/BatSmacker84/sidesource/releases/download/9.67/Twitter_9.67_BHTwitter_3.9.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png",
       "localizedDescription": "BHTwitter is a modified version of Twitter with many additional features.\n Full infomation about BHTwitter is available on Github: https://github.com/BandarHL/BHTwitter",
       "name": "BHTwitter",
@@ -33,11 +33,11 @@
         "https://raw.githubusercontent.com/BandarHL/BHTwitter/master/3.png",
         "https://raw.githubusercontent.com/BandarHL/BHTwitter/master/4.png"
       ],
-      "size": 96303272,
+      "size": 97762743,
       "tintColor": "3f9de5",
-      "version": "3.9.1",
-      "versionDate": "2023-06-21",
-      "versionDescription": "What's new in the 3.9.1 update:\n- Add a new option to force Twitter to always use the following page."
+      "version": "3.9.1.2",
+      "versionDate": "2023-07-19",
+      "versionDescription": "Updated Twitter version to 9.67"
     }
   ],
   "identifier": "com.batsmacker.source",
