@@ -17,7 +17,7 @@
       "size": 117440512,
       "tintColor": "e85567",
       "version": "18.29.1",
-      "versionDate": "2023-07-26",
+      "versionDate": "2023-07-26T00:00:00",
       "versionDescription": "RELEASE v18.29.1:\n\nUpdated YouTube from v18.27.3 to v18.29.1\nUpdated uYou from 3.0.0 to 3.0.1\n- Added Hide uYou Tab Option uYou Settings > Hide Tabs\n- Added uYou Settings Shortcut in YouTube Settings > General\n- Updated Remove YouTube Ads Option in uYou Settings > Other Settings\n- Fixed a critical crash when using uYou on iPadOS/iOS 16 Devices\n- Fixed a crash when using the Export to Music app Feature\n- Fixed a crash when using Video Quality Options\nuYouPlusExtra v18.29.1-3.0.1 changes\n- Updated OLED Dark Theme & Old Dark Theme (supports the latest YouTube Version)\n- removed some options and everything else that uYou v3.0.1 has implemented"
     },
     {
