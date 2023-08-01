@@ -23,10 +23,10 @@
     {
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "BandarHL",
-      "downloadURL": "https://github.com/BatSmacker84/sidesource/releases/download/9.67/Twitter_9.67_BHTwitter_3.9.1.ipa",
+      "downloadURL": "https://github.com/BatSmacker84/sidesource/releases/download/10.0/Twitter_10.0_BHTwitter_3.9.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png",
       "localizedDescription": "BHTwitter is a modified version of Twitter with many additional features.\n Full infomation about BHTwitter is available on Github: https://github.com/BandarHL/BHTwitter",
-      "name": "BHTwitter",
+      "name": "BHTwitter (X)",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/BandarHL/BHTwitter/master/1.png",
         "https://raw.githubusercontent.com/BandarHL/BHTwitter/master/2.png",
@@ -36,8 +36,8 @@
       "size": 97762743,
       "tintColor": "3f9de5",
       "version": "3.9.1",
-      "versionDate": "2023-07-19",
-      "versionDescription": "Updated Twitter version to 9.67"
+      "versionDate": "2023-07-31",
+      "versionDescription": "Updated Twitter (X) version to 10.0"
     }
   ],
   "identifier": "com.batsmacker.source",
