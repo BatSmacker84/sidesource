@@ -3,7 +3,7 @@
     {
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "MiRO92 & Qn_ & arichorn",
-      "downloadURL": "https://github.com/arichorn/uYouPlusExtra/releases/download/v18.30.6-3.0.1/uYouPlusExtra_18.30.6_3.0.1.ipa",
+      "downloadURL": "https://github.com/arichorn/uYouPlusExtra/releases/download/v18.31.3-3.0.1/uYouPlusExtra_18.31.3_3.0.1.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
       "localizedDescription": "uYouPlusExtra is a modified version of uYouPlus with some Extra features (requires iOS 14.0 and later).\nFull infomation about uYouPlusExtra is available on Github: https://github.com/arichorn/uYouPlusExtra\n\nCredits: Please keep the Credits if you re-up uYouPlusExtra! https://github.com/arichorn/uYouPlusExtra#credits\n\nAttention:\n- If you like the app, considering support the developers!\n- YTUHD is not stable atm. You might encounter stuttering, heat, battery drain..., especially when playing at 2160p (4K) quality. However, this should not happen if you use TrollStore.\n- Unless you're using TrollStore, deep-link (aka Open in the YouTube App) simply will not work.\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus/issues\n- uYouPlusExtra's issues: https://github.com/arichorn/uYouPlusExtra/issues",
       "name": "uYouPlusExtra",
@@ -16,9 +16,9 @@
       ],
       "size": 118489088,
       "tintColor": "e85567",
-      "version": "18.30.6",
-      "versionDate": "2023-07-31",
-      "versionDescription": "Version Release: 18.30.6-3.0.1\n\n- Updated YouTube from v18.29.1 to v18.30.6\n- Revamped OLED Dark Theme & Old Dark Theme (should now properly work with the latest YouTube Version)\n- Added New Option Portrait Fullscreen and can be found in Video Player Options\n- Fixed Hide Subscriptions Notification Badge\n- Fixed Hide Dark Overlay Background again\n- Updated YTNoCommunityPosts\n  - Localization Support\n  - Inverted the option in General from being 'Show Community Posts' to being 'Hide Community Posts' by default\n- YouQuality Bugfixes\n\nSHA256: 4fee1f5f63fc8dd1138ddf556705740b23e50192ac0bac330f121bd5a60026be"
+      "version": "18.31.3",
+      "versionDate": "2023-08-15",
+      "versionDescription": "Version Release: 18.31.3-3.0.1\n\n- Updated YouTube from v18.30.6 to v18.31.3\n- Overhauled LowContrastMode Tweak - LowContrastMode v1.4.0\n- Improved Native Dark Theme (Original Dark Theme by YouTube)\n- Improved OLED Dark Theme & Old Dark Theme\n- Updated YTNoModernUI\n  - Bumped App Version to v17.38.10 and fixes unwanted issues\n- Updated Submodules\n  - Fixed YTNoCommunityPosts Japanese Localization\n  - YouQuality Tweak Improvements\n  - YouPiP Bugfixes\n\nSHA256: 4fee1f5f63fc8dd1138ddf556705740b23e50192ac0bac330f121bd5a60026be"
     },
     {
       "bundleIdentifier": "com.atebits.Tweetie2",
