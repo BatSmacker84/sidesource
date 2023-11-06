@@ -3,7 +3,7 @@
     {
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "MiRO92 & Qn_ & arichorn",
-      "downloadURL": "https://github.com/arichorn/uYouPlusExtra/releases/download/v18.34.5-3.0.1/uYouPlusExtra_18.34.5_3.0.1.ipa",
+      "downloadURL": "https://github.com/arichorn/uYouPlusExtra/releases/download/v18.41.5-3.0.1-F2/uYouPlusExtra_18.41.5_3.0.1_F2.ipa",
       "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
       "localizedDescription": "uYouPlusExtra is a modified version of uYouPlus with some Extra features (requires iOS 14.0 and later).\nFull infomation about uYouPlusExtra is available on Github: https://github.com/arichorn/uYouPlusExtra\n\nCredits: Please keep the Credits if you re-up uYouPlusExtra! https://github.com/arichorn/uYouPlusExtra#credits\n\nAttention:\n- If you like the app, considering support the developers!\n- YTUHD is not stable atm. You might encounter stuttering, heat, battery drain..., especially when playing at 2160p (4K) quality. However, this should not happen if you use TrollStore.\n- Unless you're using TrollStore, deep-link (aka Open in the YouTube App) simply will not work.\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus/issues\n- uYouPlusExtra's issues: https://github.com/arichorn/uYouPlusExtra/issues",
       "name": "uYouPlusExtra",
@@ -14,11 +14,11 @@
         "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG",
         "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
       ],
-      "size": 118489088,
+      "size": 128974848,
       "tintColor": "e85567",
-      "version": "18.34.5",
-      "versionDate": "2023-09-06",
-      "versionDescription": "Version Release: 18.34.5-3.0.1\n\n- Updated YouTube from v18.33.2 to v18.34.5\n-  Updated LowContrastMode Tweak to v1.4.2\n- Improved Native Dark Theme & Old Dark Theme\n- TONS of New Options for hiding various settings\n- Removed Option Disable Wifi Related Options\n\nUpdated Submodules\n- YTVideoOverlay: Updated Localization\n\nSHA256: 7376d433b8295076c4887d541962096c947eb300ee45612d8f11a6767f501ec7"
+      "version": "18.41.5",
+      "versionDate": "2023-11-03",
+      "versionDescription": "Version Release: 18.41.5-3.0.1\n\n- Updated YouTube from v18.40.1 to v18.41.5\n-  New Options\n  -  Added Hide Remix Button under Player\n  -  Added Hide Videos in Fullscreen\n\nSHA256: 70ef934033155b19520a0881f279ea8e8595ef4e0a432a2fe1745e839fce9251"
     },
     {
       "bundleIdentifier": "com.atebits.Tweetie2",
